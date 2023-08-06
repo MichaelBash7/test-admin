@@ -12,9 +12,8 @@ npm install
 
 Start the application in development mode by running:
 
-cd test-admin
-
 ```sh
+cd test-admin ->
 npm run dev
 ```
 
@@ -23,6 +22,7 @@ npm run dev
 Build the application in production mode by running:
 
 ```sh
+cd test-admin ->
 npm run build
 ```
 
